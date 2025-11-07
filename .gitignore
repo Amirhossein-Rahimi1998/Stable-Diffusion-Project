@@ -1,0 +1,39 @@
+# Node
+node_modules/
+
+# ComfyUI and large models
+ComfyUI/
+models/
+output/
+
+# Env files
+.env
+.local.env
+local.env
+.env.local
+
+# Build outputs
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+*.pem
+*.key
+*.crt
